@@ -1,0 +1,5 @@
+opencv-python
+scikit-image
+deep-translator
+gTTS
+playsound

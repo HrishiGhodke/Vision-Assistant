@@ -65,11 +65,11 @@ Below are the project images included in this repository. They are stored at the
 
 Hardware prototype
 
-![Hardware prototype](./Hardware_Image.jpg)
+<img src="./Hardware_Image.jpg" alt="Hardware prototype" style="max-width:480px; width:100%; height:auto;" />
 
 CAD design (mechanical)
 
-![CAD design](./CAD Image.png)
+<img src="./CAD_Image.png" alt="CAD design" style="max-width:480px; width:100%; height:auto;" />
 
 
 Quick setup (developer/lab)
